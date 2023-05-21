@@ -1,5 +1,5 @@
 # データベースの構築
-[テーブル定義]()に従ってSQLを作成し、データベースを作成します。
+[テーブル定義](https://github.com/yuta051214/apprentice_subject/blob/main/3_db-sql/design.md)に従ってSQLを作成し、データベースを作成します。
 
 ```sql
 CREATE DATABASE (db_name);
